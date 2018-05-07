@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+I'm Wan Nazra
+DXC.Technology
+I'm Freshy
